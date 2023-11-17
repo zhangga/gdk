@@ -1,2 +1,2 @@
-# gdk
+# GDK
 Golang Development Kit
